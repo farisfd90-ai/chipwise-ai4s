@@ -1,0 +1,11 @@
+study_id,organ_system,perturbation,design_summary,data_accession,source_url,usage_note
+GSE175396,Liver-Chip,ethanol exposure,Vehicle and 0.08%/0.16% ethanol for 48 h; human primary hepatocytes in perfused Liver-Chip,GSE175396,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE175396,public GEO study; quantitative values not copied into synthetic training data
+GSE188541,patient-derived Liver-on-Chip,DILI compounds,"APAP, FIAU, tenofovir and tenofovir-inarigivir conditions after chip culture",GSE188541,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE188541,public GEO study
+GSE214764,pancreas-liver multi-tissue chip,hyperglycemia,Primary human islet and liver tissues with controlled microfluidic crosstalk,GSE214764,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE214764,public GEO study
+GSE168285,liver microphysiological system,NASH/fibrosis,Human liver fibrosis/NASH MPS transcriptomic study,GSE168285,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE168285,public GEO study
+GSE247677,airway/alveolus lung-on-chip,viral infection,Isogenic proximal and distal lung-chip models with SARS-CoV-2 and influenza conditions,GSE247677,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE247677,public GEO study
+GSE294626,immune-competent lung-on-chip,H1N1 influenza,"Time course at 0, 8, 24 and 48 h post infection",GSE294626,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE294626,public GEO study
+GSE193330,Liver-on-Chip,COVID-19-related liver pathophysiology,RNA-seq study using a liver-on-chip model,GSE193330,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE193330,public GEO study
+GSE293875,lung-liver fluidic organ-on-chip,infection interaction,Fluidic multi-organ model studying lung-liver interaction during infection,GSE293875,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE293875,public GEO study
+GSE276053,alveolus lung-on-chip,M. fortuitum infection,Bulk RNA-seq in infected versus uninfected alveolus lung-on-chip,GSE276053,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE276053,public GEO study
+GSE152091/GSE206417,integrated gut-liver-on-chip,NAFLD-related metabolic stress,Integrated gut-liver platform with public mRNA-seq accessions,GSE152091;GSE206417,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE152091,public GEO study
