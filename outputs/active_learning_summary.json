@@ -1,0 +1,13 @@
+{
+  "seeds": 5,
+  "initial_experiments": 12,
+  "acquisition_steps": 8,
+  "metric": "RMSE against the known synthetic latent response over the declared candidate grid",
+  "uncertainty_start_rmse": 0.0501,
+  "uncertainty_end_rmse": 0.0256,
+  "random_start_rmse": 0.0501,
+  "random_end_rmse": 0.0342,
+  "uncertainty_reduction_pct": 48.9,
+  "random_reduction_pct": 31.9,
+  "important_note": "Synthetic benchmark only; demonstrates acquisition behaviour, not wet-lab efficiency or biological validity."
+}
