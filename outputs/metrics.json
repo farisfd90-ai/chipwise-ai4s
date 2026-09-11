@@ -1,0 +1,10 @@
+{
+  "n_total": 52,
+  "n_train": 39,
+  "n_test": 13,
+  "mae": 0.0267,
+  "rmse": 0.035,
+  "r2": 0.955,
+  "coverage_95": 1.0,
+  "important_note": "Metrics are on synthetic data and demonstrate software behaviour, not biological validity."
+}
